@@ -116,7 +116,7 @@ const Location = ({ setIsOpen }) => {
               minHeight: '380px',
             }}>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25952.404033135277!2d80.06198!3d13.049194000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a528a4853d87745%3A0x6c6e3898a8ee32e4!2sThirumazhisai%2C%20Tamil%20Nadu!5e1!3m2!1sen!2sin!4v1767614474188!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3203.583187473769!2d80.02178517507775!3d13.047646487274758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a528b9bf14fb0df%3A0x36f2d9ebe4e763f8!2sShriram%20Codename%20Pudhiya%20Chennai!5e1!3m2!1sen!2sin!4v1777963230534!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '380px', display: 'block' }}
